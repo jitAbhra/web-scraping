@@ -1,2 +1,2 @@
 # web-scraping
-Learn different module for web-scraping
+Learn different modules for web-scraping
